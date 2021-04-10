@@ -149,7 +149,7 @@
     height: 70px;
     color: white;
     font-size: 16px;
-    padding-top: 35px ;
+    padding-top: 30px ;
     padding-left: 58px;
     
 }
@@ -160,4 +160,63 @@
     width: 100%;
     height: 266px;
     background-color: #181C28;
+}
+
+/* footer */
+
+.footer{
+    width: 1325px;
+    height: 250px;
+    margin-top: 82px;
+    margin-left: 250px;
+    position: relative;
+}
+.company{
+    margin-right: 198px;
+    display: inline-block;
+}
+.foot-head-1{
+    font-size: 24px;
+    margin-bottom: 15px;
+    color: #282828;
+    font-weight: bold;
+}
+
+.foot-li{
+    margin-bottom: 7px;
+}
+.foot-a{
+    color: #7B7B7B;
+}
+
+.services{
+    display: inline-block;
+    margin-right: 198px;
+}
+
+.ORDERS{
+    display: inline-block;
+    margin-right: 198px;
+    vertical-align: top;
+}
+
+.PAYMENT{
+    display: inline-block;
+    vertical-align: top;
+}
+.payment-1{
+    vertical-align: middle;
+}
+.payment-2{
+    vertical-align: middle;
+}
+.payment-3{
+    vertical-align: middle;
+}
+
+.copyright{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    margin-bottom: 50px;
 }
