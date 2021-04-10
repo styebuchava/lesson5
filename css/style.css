@@ -116,3 +116,27 @@
 .img-right1{
     margin-bottom: 20px;
 }
+
+/* container2 */
+
+.container2{
+    margin-top: 57px;
+}
+.left-block2{
+    width: 636px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 48px;
+}
+.img-left2{
+    margin-bottom: 20px;
+}
+
+.right-block2{
+    width: 636px;
+    display: inline-block;
+    vertical-align: top;
+}
+.img-right2{
+    margin-bottom: 20px;
+}
