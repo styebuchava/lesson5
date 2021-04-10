@@ -28,3 +28,32 @@
     left: 0px;
     background-color: white;
 }
+/* seciton1 */
+
+.img1{
+    width: 100%;
+}
+.img-wraper{
+    margin-top: 97px;
+    width: 100%;
+    position: relative;
+}
+.text-wraper{
+    position: absolute;
+    top: 150px;
+    left: 800px;
+    width: 315px;
+    height: 92px;
+}
+.text-img{
+    position: absolute;
+    color: white;
+    font-size: 22px;
+}
+.text-img2{
+    position: absolute;
+    color: white;
+    top: 180px;
+    left: 840px;
+    font-size: 48px;
+}
