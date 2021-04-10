@@ -74,6 +74,7 @@
     margin-bottom: 81px ;
     font-size: 22px;
     color: #FF7A00;
+    font-family: 'Poppins';
 }
 .left-block1{
     width: 636px;
@@ -88,11 +89,14 @@
 .heading{
     font-size: 36px;
     margin-bottom: 22px;
+    font-family: 'Playfair Display';
 }
 
 .left-text1{
     color: #7B7B7B;
     margin-bottom: 13px;
+    font-family: 'Poppins';
+    
 }
 .readmore{
     color: #FF7A00;
