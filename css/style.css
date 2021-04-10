@@ -1,0 +1,30 @@
+/* header */
+.logo{
+    display: inline-block;
+    margin-top: 4px;
+    margin-left: 140px;
+    margin-right: 119px;
+    vertical-align: middle;
+    
+}
+.navigation{
+    display: inline-block;
+    margin-top: 4px;
+    vertical-align: middle;
+}
+.nav-li{
+    display: inline-block;
+    margin-right: 24px;
+}
+
+.nav-a{
+    font-size: 18px;
+    color: black;
+}
+.header{
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background-color: white;
+}
