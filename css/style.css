@@ -121,6 +121,7 @@
 
 .container2{
     margin-top: 57px;
+    margin-bottom: 66px;
 }
 .left-block2{
     width: 636px;
@@ -139,4 +140,16 @@
 }
 .img-right2{
     margin-bottom: 20px;
+}
+
+.orng-box{
+    margin: 0 auto;
+    background-color: #FF7A00;
+    width: 190px;
+    height: 70px;
+    color: white;
+    font-size: 16px;
+    padding-top: 35px ;
+    padding-left: 58px;
+    
 }
